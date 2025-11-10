@@ -1,0 +1,58 @@
+* {
+    font-family: Roboto;
+    color: white;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+header {
+    background-color: #1F2937;
+    display: flex;
+
+}
+
+
+.block1 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.subblock1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.subblock2 {
+    display: flex;
+
+}
+
+.subblock2-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.subblock2 h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+
+}
+
+.subblock2 p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+    
+}
